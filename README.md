@@ -1,19 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohd Ashraf</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
-<!--
-**mohdAshraf17/mohdAshraf17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on  [webRTC based fullstack project](https://coders-house-project.vercel.app/)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **React and Node.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **Fullstack projects**
+
+- 💬 Ask me about **JavaScript, React, Node.js and any general web development questions.**
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohdashraf17) 
