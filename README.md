@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohd Ashraf</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on  [webRTC based fullstack project](https://coders-house-project.vercel.app/)
 
-- 🌱 I’m currently learning **React and Node.js**
-
-- 👯 I’m looking to collaborate on **Fullstack projects**
-
-- 💬 Ask me about **JavaScript, React, Node.js and any general web development questions.**
-
-
+🔭 **I’m currently working on:**  <br>WebRTC based fullstack project.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>React and Node.js.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js and any general web development questions.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohdashraf17) 
